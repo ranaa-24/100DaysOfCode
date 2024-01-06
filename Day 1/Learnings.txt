@@ -1,0 +1,3 @@
+Today learnt about - 
+1. Git Branches, Pull requests and Marging bye YT- Telusko
+2. solved 4 DSA QS, (including GFG and Leetcode POTD)
